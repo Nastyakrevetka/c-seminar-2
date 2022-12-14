@@ -10,3 +10,4 @@ max = b;
 }
 Console.Write("Большая цифра: ");
 Console.WriteLine(max);
+

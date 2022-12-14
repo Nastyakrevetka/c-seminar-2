@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Downloads\\geek_brains\\задания_C#\\лекция_2\\numb1\\numb1.csproj",
-      "projectName": "numb1",
-      "projectPath": "C:\\Users\\HP\\Downloads\\geek_brains\\задания_C#\\лекция_2\\numb1\\numb1.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Downloads\\geek_brains\\задания_C#\\лекция_2\\numb1\\numb2\\numb2.csproj",
+      "projectName": "numb2",
+      "projectPath": "C:\\Users\\HP\\Downloads\\geek_brains\\задания_C#\\лекция_2\\numb1\\numb2\\numb2.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Downloads\\geek_brains\\задания_C#\\лекция_2\\numb1\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Downloads\\geek_brains\\задания_C#\\лекция_2\\numb1\\numb2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
