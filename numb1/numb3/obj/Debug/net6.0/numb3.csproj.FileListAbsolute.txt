@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\geek_brains\задания_C#\лекция_2\numb1\numb3\obj\Debug\net6.0\numb3.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\geek_brains\задания_C#\лекция_2\numb1\numb3\obj\Debug\net6.0\numb3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\geek_brains\задания_C#\лекция_2\numb1\numb3\obj\Debug\net6.0\numb3.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\geek_brains\задания_C#\лекция_2\numb1\numb3\obj\Debug\net6.0\numb3.AssemblyInfo.cs
+C:\Users\HP\Downloads\geek_brains\задания_C#\лекция_2\numb1\numb3\obj\Debug\net6.0\numb3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\geek_brains\задания_C#\лекция_2\numb1\numb3\bin\Debug\net6.0\numb3.exe
+C:\Users\HP\Downloads\geek_brains\задания_C#\лекция_2\numb1\numb3\bin\Debug\net6.0\numb3.deps.json
+C:\Users\HP\Downloads\geek_brains\задания_C#\лекция_2\numb1\numb3\bin\Debug\net6.0\numb3.runtimeconfig.json
+C:\Users\HP\Downloads\geek_brains\задания_C#\лекция_2\numb1\numb3\bin\Debug\net6.0\numb3.dll
+C:\Users\HP\Downloads\geek_brains\задания_C#\лекция_2\numb1\numb3\bin\Debug\net6.0\numb3.pdb
+C:\Users\HP\Downloads\geek_brains\задания_C#\лекция_2\numb1\numb3\obj\Debug\net6.0\numb3.dll
+C:\Users\HP\Downloads\geek_brains\задания_C#\лекция_2\numb1\numb3\obj\Debug\net6.0\refint\numb3.dll
+C:\Users\HP\Downloads\geek_brains\задания_C#\лекция_2\numb1\numb3\obj\Debug\net6.0\numb3.pdb
+C:\Users\HP\Downloads\geek_brains\задания_C#\лекция_2\numb1\numb3\obj\Debug\net6.0\numb3.genruntimeconfig.cache
+C:\Users\HP\Downloads\geek_brains\задания_C#\лекция_2\numb1\numb3\obj\Debug\net6.0\ref\numb3.dll
